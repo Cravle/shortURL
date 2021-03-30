@@ -1,0 +1,21 @@
+.cardButton {
+    margin-right: 10px;
+}
+
+input.yellowInput {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+}
+
+input.yellowInput + label {
+    color: #fff !important;
+}
+
+input.yellowInput + label:focus {
+    color: #ffeb3b !important;
+}
+
+input.yellowInput:focus {
+    border-bottom: 1px solid #ffeb3b !important;
+    box-shadow: 0 1px 0 0 #ffeb3b !important;
+}
