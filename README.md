@@ -1,4 +1,4 @@
-# Social Network
+# Short url
 
 This is my first Full Stack project, where I first used node js with Express. With the help of this
 app you can cut any URL. 
